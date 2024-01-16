@@ -2,8 +2,13 @@
 
 Boilerplate for Typescript express MongoDB with Authentication flow
 
-```
-yarn isntall # installing all the dependencies
+Install all dependencies by:
 
-yarn start # Initiate server
+```
+yarn isntall
+```
+
+Initiate the server using:
+```
+yarn start
 ```
