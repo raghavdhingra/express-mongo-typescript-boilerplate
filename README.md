@@ -1,1 +1,1 @@
-# express-mongo-typescript-boilerplate
+# express-typescript-mongodb-boilerplate
